@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{19128D6F-73A1-4CC0-8120-3654E6B61FB6}|SoftUniBazar.Data\\SoftUniBazar.Data.csproj|c:\\random\\softexams\\exampprep1\\ex1\\dobromirtt-task-2\\softunibazar\\softunibazar.data\\softunibazar.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{19128D6F-73A1-4CC0-8120-3654E6B61FB6}|SoftUniBazar.Data\\SoftUniBazar.Data.csproj|solutionrelative:softunibazar.data\\softunibazar.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337DBB45-1077-4F49-8F9A-824477D249BC}|SoftUniBazar\\SoftUniBazar.csproj|c:\\random\\softexams\\exampprep1\\ex1\\dobromirtt-task-2\\softunibazar\\softunibazar\\softunibazar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{337DBB45-1077-4F49-8F9A-824477D249BC}|SoftUniBazar\\SoftUniBazar.csproj|solutionrelative:softunibazar\\softunibazar.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +18,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SoftUniBazar.Data",
-              "DocumentMoniker": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
-              "RelativeDocumentMoniker": "SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
-              "ToolTip": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
-              "RelativeToolTip": "SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+              "DocumentIndex": 1,
+              "Title": "SoftUniBazar",
+              "DocumentMoniker": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar\\SoftUniBazar.csproj",
+              "RelativeDocumentMoniker": "SoftUniBazar\\SoftUniBazar.csproj",
+              "ToolTip": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar\\SoftUniBazar.csproj",
+              "RelativeToolTip": "SoftUniBazar\\SoftUniBazar.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-05T20:50:57.459Z",
+              "WhenOpened": "2025-04-05T21:27:57.533Z",
               "EditorCaption": ""
             },
             {
@@ -39,6 +43,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoftUniBazar.Data",
+              "DocumentMoniker": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+              "RelativeDocumentMoniker": "SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+              "ToolTip": "C:\\random\\softExams\\ExampPrep1\\ex1\\dobromirtt-task-2\\SoftUniBazar\\SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+              "RelativeToolTip": "SoftUniBazar.Data\\SoftUniBazar.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T20:50:57.459Z",
+              "EditorCaption": ""
             }
           ]
         }
